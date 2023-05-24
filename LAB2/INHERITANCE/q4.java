@@ -1,3 +1,4 @@
+//Write a program using the concept of polymorphism in Java to calculate the charge of a telephone exchange.
 abstract class TrunkCall {
     int duration;
     abstract double calculateCharges();
