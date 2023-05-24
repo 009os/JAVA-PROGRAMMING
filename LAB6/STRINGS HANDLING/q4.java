@@ -1,4 +1,4 @@
-package LAB.lab8;
+//Write a program in Java to create a String object. 
 import java.util.Scanner;
 
 public class q4 {
