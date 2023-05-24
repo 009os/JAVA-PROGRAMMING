@@ -1,4 +1,4 @@
-package LAB.lab1.lab2;
+//This program will print a definite star pattern.
 
 
 public class q5lab
