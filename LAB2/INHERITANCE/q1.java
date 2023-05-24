@@ -1,3 +1,4 @@
+//Write a Java program to show that private member of a super class cannot be accessed from derived classes.
 class ar {
     private int l, b;
 
