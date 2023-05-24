@@ -1,4 +1,4 @@
-
+//This program will print the result of students according to their marks.
 import java.util.Scanner;
 public class Main {
 
