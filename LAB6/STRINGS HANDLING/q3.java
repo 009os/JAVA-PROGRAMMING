@@ -1,4 +1,4 @@
-package LAB.lab8;
+//Write a program in Java to read a statement from console, convert it into upper case and again print on console.
 import java.util.Scanner;
 
 public class q3 {
