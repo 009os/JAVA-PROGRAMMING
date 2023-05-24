@@ -1,4 +1,4 @@
-package LAB.lab8;
+//Write a program for searching strings.
 import java.util.Scanner;
 
 public class q1 {
