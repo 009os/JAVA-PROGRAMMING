@@ -1,4 +1,4 @@
-package LAB.lab7;
+//Write a program in Java to display the names and roll numbers of students and showing required exception where possible.
 public class q17 {
     public static void main(String[] args) {
         String[] names = {"a", "b", "c", "d", "e", "f", "g", "h", "i", "j"};
