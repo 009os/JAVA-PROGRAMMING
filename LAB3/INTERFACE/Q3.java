@@ -1,3 +1,4 @@
+//Write a program in Java to show the usefulness of Interfaces as a place to keep constant value of the program.
 interface Constants {
     int MAX_VALUE = 100;
     int MIN_VALUE = 0;
