@@ -1,4 +1,4 @@
-package LAB.lab7;
+//Write a code to create your own exception class. 
 import java.util.Scanner;
 
 class NumberTooSmallException extends Exception {
