@@ -1,4 +1,4 @@
-package LAB.lab1.lab2;
+//: IMPLEMENTING A CALCULATOR
 import java.util.Scanner;
 
 public class q2lab {
