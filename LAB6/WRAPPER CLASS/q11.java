@@ -1,4 +1,5 @@
-package LAB.lab8;
+//Write a Java code that converts int to Integer, 
+//converts Integer to String, converts String to int, converts int to String, converts String to Integer converts Integer to int.
 public class q11 {
     public static void main(String[] args) {
         int numInt = 123;
