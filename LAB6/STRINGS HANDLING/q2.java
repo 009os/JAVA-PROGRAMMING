@@ -1,4 +1,4 @@
-package LAB.lab8;
+//Write a program that converts all characters of a string in capital letters. (Use String Buffer to store a string).
 public class q2 {  
     public static void main(String[] args) {  
           
