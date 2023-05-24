@@ -1,4 +1,4 @@
-package LAB.lab7;
+//You are required to compute the power of a number by implementing a calculator and show required exceptions 
 import java.util.Scanner;
 
 
