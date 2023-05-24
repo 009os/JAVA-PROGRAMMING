@@ -1,4 +1,4 @@
-
+//Write a program to create interface.
 interface Test {
     void isSquare(int n);
 }
