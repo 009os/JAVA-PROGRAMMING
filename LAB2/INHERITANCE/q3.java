@@ -1,3 +1,4 @@
+//Write a class Worker and derive classes Daily Worker and Salaried Worker from it. . You are expected to use the concept of polymorphism to write this program.
 class worker {
     String name;
 
