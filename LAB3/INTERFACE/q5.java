@@ -1,3 +1,4 @@
+//Performing all operations of stack.
 interface Stack {
     void push(int data);
     int pop();
