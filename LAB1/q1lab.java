@@ -1,4 +1,5 @@
-package LAB.lab1.lab2;
+//QUESTION 1 : Write a program to find the largest of 3 numbers
+
 
 import java.util.Scanner;
 
