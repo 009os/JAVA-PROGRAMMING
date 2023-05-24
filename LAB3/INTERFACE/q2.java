@@ -1,4 +1,4 @@
-
+//Write a program to create interface A
 interface A {
     void method1();
     void method2();
