@@ -1,4 +1,4 @@
-package LAB.lab7;
+//Create an exception class, which throws an exception if operand is nonnumeric in calculating modules. (Use command line arguments)
 import java.util.Scanner;
 class NonNum extends Exception {
     NonNum() {
