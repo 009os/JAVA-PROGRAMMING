@@ -1,3 +1,17 @@
+//Create a project which shows the thread management using queueing system. 
+//You can take following inputs for your project:
+//1. Number of Processors
+//2. Number of Process and their threads
+//3. Asking the user for execution of threads 
+//    Here the end user may give following choice for execution of threads:
+//a) First in first out.
+//b) Last in first out.
+//c) Random execution.
+//d) Shortest processing time first means the thread which takes less time amid all given threads will be executed first.
+//e) Priority based execution
+
+
+
 import java.util.Scanner;
 import java.util.Stack;
 import java.util.Queue;
