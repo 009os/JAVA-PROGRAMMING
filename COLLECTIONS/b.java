@@ -1,4 +1,9 @@
-package ASSGNMENT;
+//Write a program for the following HashMap
+//• find whether specified key exists or not.
+//• find whether specified value exists or not.
+//• get all keys from the given HashMap.
+//• get all key-value pair as Entry objects.
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
