@@ -1,4 +1,8 @@
-package ASSGNMENT;
+//Write a program for the following HashSet 
+//• copy another collection object to HashSet object.
+//• delete all entries at one call from HashSet.
+//• search user defined objects from HashSet
+
 import java.util.*;
 
 public class d {
