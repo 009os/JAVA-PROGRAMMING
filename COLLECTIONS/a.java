@@ -1,4 +1,8 @@
-package ASSGNMENT;
+//Write a program for the following.
+//• Read all elements from ArrayList by using  Iterator.
+//• Create duplicate object of an ArrayList instance.
+//• Reverse ArrayList content.
+
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Collections;
